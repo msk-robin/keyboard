@@ -1,11 +1,15 @@
-.maininit{
-    border: 1px solid lightgray
+
+.mainbox{
+    display: flex;
+    justify-content: center;
 }
+
 .maindiv{
     display: flex;
     flex-wrap: wrap;
     border: 1px solid lightgreen;
-    /* justify-content: center; */
+    justify-content: center;
+    width: 890px;
     
 }
 .esc-btn{
