@@ -1,0 +1,81 @@
+.maininit{
+    border: 1px solid lightgray
+}
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid lightgreen;
+    /* justify-content: center; */
+    
+}
+.esc-btn{
+    width: 40px;
+    margin: 7px;
+    padding: 0;
+}
+.space-btn{
+    width: 285px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.shift-btn{
+    width: 125px;
+    height: 40px;
+    margin: 7px;
+    padding: 0;
+}
+.pause-btn{
+    width:120px;
+    margin: 7px;
+}
+.alt-btn{
+    margin: 7px;
+    width: 95px;
+}
+.s-btn{
+   margin: 7px; 
+}
+.up-btn{
+    display: flex;
+    flex-direction: column;
+}
+.up_dn-btn{
+    height: 20px;
+    width: 40px;
+    border: 1px solid gray;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+.up_dn-btn2{
+    height: 20px;
+    width: 40px;
+    border: 1px solid gray;
+    margin-top:0;
+    margin-bottom: 7px;
+}
+.caps-btn{
+    width: 100px;
+    height: 40px;
+    margin: 7px;
+    padding: 0;
+}
+.enter-btn{
+    width: 90px;
+    height: 40px;
+    margin-top: 7px;
+    margin-left: 7px;
+    margin-right:7px ;
+}
+.tab-btn{
+    width: 95px;
+    height: 40px;
+    margin: 7px;
+    padding: 0;
+}
+.backspace-btn{
+    width: 110px;
+    height: 40px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    margin-right: 8px;
+}
